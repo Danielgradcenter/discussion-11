@@ -1,0 +1,27 @@
+---
+title: "discussion 11"
+output: html_document
+date: "2024-11-10"
+---
+Recommender system- Hinge(dating app)
+
+
+Who are your target users?
+
+Hinge is a dating app that primarily caters to singles or people in open relationships who are looking for a long-term partner. The app is for individuals aged 18 and older, with a focus on fostering meaningful relationships.
+
+What are their key goals?
+
+Hinge's key goal is to help users find matches and eventually delete the app, as the platform prides itself on facilitating long-term relationships. In other words, Hinge aims to help people find meaningful connections, leading to the ultimate goal of users no longer needing the app.
+
+How can you help them accomplish those goals?
+
+In the current climate, many people are feeling more isolated and disconnected. There is a growing desire to find not just romantic relationships, but also a sense of community. I believe Hinge could benefit from a new marketing strategy that focuses on helping users build a broader sense of connection and community, rather than solely concentrating on romantic partnerships. By emphasizing collaboration and fostering meaningful connections—whether romantic or platonic—Hinge could increase user engagement and create a more dynamic platform. Dating would still be a focus, but by shifting the emphasis to organic connections and real-life meetups, Hinge could keep users engaged for longer, even after they have found a romantic partner.
+
+Reverse Engineering:
+
+Overall, a recommender system provides personalized suggestions to the user, and for a dating app, I believe a hybrid method would work well. One part of this method could be content-based filtering, where the user actively selects the types of content they want to see. For example, users could choose interests like camping, art, or other activities. This would help them find relevant groups or events.
+The second part of the hybrid system could incorporate collaborative filtering, which uses user feedback and history to make recommendations. This method would be helpful for people looking for specific groups, as well as for rating potential matches or users. By analyzing users' interactions (such as which profiles they rate highly or events they attend), the system can suggest new connections or activities based on the behavior of similar users.
+
+
+
